@@ -1,0 +1,14 @@
+1. what are sockets?
+A socket is an abstraction that allows an application to send and receive data, much like an open file allows an application to read and write data to stable storage.
+A socket enables an application to "plug in" to the network and communicate with other applications that are also plugged in.
+Information written to a socket by one application can be read by another application on another machine, and vice versa. 
+
+2.what is socket programming?
+Socket programming demonstrates how to use socket APIs to connect remote and local processes. 
+
+3. Why should i learn socket programming?
+Sockets can be used for standalone or network applications.
+Sockets enable information exchange between processes on the same machine or across a network, the distribution of work to the most efficient machine, and easy access to centralized data. '
+
+4.Why did my instructor never discuss socket programming in the class slides but ask me to do this assignment?
+This is because my teacher wants me to do some research on this very interesting topic in order to learn more before the next class i think 
